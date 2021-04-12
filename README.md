@@ -22,8 +22,23 @@ Assume that the more diverse a plant is, the more diverse its fibers will likely
 
 In order to find "variety", I divide fiberous food based on its plant Order. [Here is a detailed table I have compiled](plant_diversity).
 
-Here are my priorities when searching for a diet:
+Here are my priorities when searching for food to eat for this diet:
 
 1. Try to maximize the variety by eating foods from as many plant Orders as possible.
 2. When choosing which food to eat within an Order, pick the one that has the highest amount of dietary fiber.
-3. When choosing fatty foods, minimize foods with high omega 6 fat, maximize foods with high monounsaturated fat. (Macadamias, Olives, Avocados)
+3. When choosing fatty foods, minimize foods with high omega 6 fat (Peanut, Sunflower, Sesame), maximize foods with high monounsaturated fat. (Macadamias, Olives, Avocados)
+4. Minimize eating foods that have anti-nutrient properties.
+
+## Dishes
+
+Based on my plant diversity analysis, here are a list of receipes I have compiled over time:
+
+Salad
+: Combine shredded lettuce, shredded carrots, shredded cabbage, and minced garlic mixed together with salt and olive oil. Maybe add seaweed to this mixture?
+
+Snack
+: Macademias, Kumquats, Raspberries, Blueberries, Guava, Snowpeas
+: Spread Avocado on a rye crisp.
+
+Fries / Chips
+: Sliced Lotus root fried until crispy. Maybe fry this with some onions?
