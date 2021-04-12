@@ -20,4 +20,10 @@ I want to increase the diversity of my microbiome. Because of the lacking scienc
 
 Assume that the more diverse a plant is, the more diverse its fibers will likely be. Hence, to increase gut diversity, I need to eat a wide variety fiberous of foods. The more varied, the better.
 
-In order to find "variety", I divide fiberous food based on its plant order. [Here is a detailed table I have compiled](plant_diversity).
+In order to find "variety", I divide fiberous food based on its plant Order. [Here is a detailed table I have compiled](plant_diversity).
+
+Here are my priorities when searching for a diet:
+
+1. Try to maximize the variety by eating foods from as many plant Orders as possible.
+2. When choosing which food to eat within an Order, pick the one that has the highest amount of dietary fiber.
+3. When choosing fatty foods, minimize foods with high omega 6 fat, maximize foods with high monounsaturated fat. (Macadamias, Olives, Avocados)
