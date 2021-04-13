@@ -10,13 +10,13 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 
 | Order        | Root  | Stem/Leaf | Fruit      | Seed    | Antinutrient / Fiber |
 |--------------|-------|-----------|------------|---------|-----------|
-|Alismatales   |Taro<sup>3.9</sup><br>Eddo<br>Yautia<sup>1.7</sup>| | |         |           |
-|Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup><br>Fennel|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
-|Arecales      |       |Heart of Palm|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
-|Asparagales   |Onion<sup>4.7</sup><br>Garlic<sup>1.7</sup><br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
+|Alismatales   |Eddo<br>Taro<sup>3.9</sup><br>Yautia<sup>1.7</sup>| | |         |           |
+|Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Fennel<br>Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup>|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
+|Arecales      |       |Heart of Palm<up>14.4</sup>|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
+|Asparagales   |Onion<sup>4.7</sup><br>Shallot<br>Leek<sup>3.3</sup><br>Garlic<sup>1.7</sup>|Chive<sup>15.7</sup><br>Asparagus<sup>15.4</sup><br>Agave<sup>10.4</sup><br>Aloe vera<br>Vanilla<br>Saffron<sup>1.7</sup>| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<sup>11.3</sup><br>Artichoke<br>Endive<br>Chamomile| |Sunflower| Inulin |
-|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<sup>17.6</sup><br>Bok Choy<sup>13.0</sup><br>Cauliflower<sup>13.0</sup><br>Arugula<sup>12.1</sup><br>Brussel sprouts<sup>11.8</sup><br>Broccoli<sup>10.8</sup><br>Cabbage<sup>8.0</sup><br>Kale<sup>5.6</sup><br>Garden Cress<sup>5.5</sup>|Papaya<sup>5.0</sup>|Mustard Seed<sup>10.4</sup><br>Rapeseed|Myrosinase|
-|Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
+|Brassicales   |Radish<sup>10.0</sup><br>Daikon<sup>10.3</sup><br>Turnip<sup>7.3</sup><br>Horseradish|Collard<sup>17.6</sup><br>Bok Choy<sup>13.0</sup><br>Cauliflower<sup>13.0</sup><br>Arugula<sup>12.1</sup><br>Brussel sprouts<sup>11.8</sup><br>Broccoli<sup>10.8</sup><br>Cabbage<sup>8.0</sup><br>Kale<sup>5.6</sup><br>Garden Cress<sup>5.5</sup>|Papaya<sup>5.0</sup>|Mustard Seed<sup>10.4</sup><br>Rapeseed|Myrosinase|
+|Caryophyllales|Beet<sup>7.5</sup>|Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit (Pitaya)<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
 |Cucurbitales  | | |Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon<br>Chayote<br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Blueberry<sup>4.2</sup><br>Kiwi<br>Persimmon|Brazil Nut| |
@@ -31,7 +31,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Myrtales      |       |Clove     |Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper|         | |
-|Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<br>Sugarcane|Pineapple<sup>3.0</sup>|Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>4.0</sup><br>Rice<br>Wheat<br>Rye<br>Barley<br>Sorghum<br>Millet| |
+|Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<br>Sugarcane|Pineapple<sup>3.0</sup>|Barley<sup>Hulled: 6.0, Pearled: 5.1</sup>Rye<sup>5.4</sup><br>Wheat<sup>3.3 (Bran: 28.2)</sup>Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>3.9</sup><br>Millet<sup>2.8</sup><br>Sorghum<sup>2.1</sup><br>Rice<sup>1.1 (Bran: 17.9)</sup>| |
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
 |Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds| |
