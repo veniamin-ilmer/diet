@@ -29,7 +29,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Malpighiales  |Cassava (Yuca)|          |Passionfruit|Flaxseed<sup>23.1</sup> | |
 |Malvales      |       |Hibiscus|Durian<br>Okra<br>Roselle|Cacao    | |
 |Myrtales      |       |Clove     |Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
-|Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
+|Oxalidales    |       |          |Starfruit<sup>11.3</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<br>Sugarcane|Pineapple<sup>3.0</sup>|Barley<sup>Hulled: 6.0, Pearled: 5.1</sup><br>Rye<sup>5.4</sup><br>Wheat<sup>3.3 (Bran: 28.2)</sup><br>Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>3.9</sup><br>Millet<sup>2.8</sup><br>Sorghum<sup>2.1</sup><br>Rice<sup>1.1 (Bran: 17.9)</sup>| |
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
