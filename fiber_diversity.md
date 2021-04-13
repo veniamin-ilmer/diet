@@ -10,8 +10,8 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 
 | Order        | Root  | Stem/Leaf | Fruit      | Seed    | Antinutrient / Fiber |
 |--------------|-------|-----------|------------|---------|-----------|
-|Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
-|Apiales       |Carrot<sup>7.7</sup><br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<sup>13.7</sup><br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
+|Alismatales   |Taro<sup>3.9</sup><br>Eddo<br>Yautia<sup>1.7</sup>| | |         |           |
+|Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Celery<sup>13.7</sup><br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
 |Arecales      |       |Heart of Palm|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Garlic<sup>1.7</sup><br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<sup>11.3</sup><br>Artichoke<br>Endive<br>Chamomile| |Sunflower| Inulin |
