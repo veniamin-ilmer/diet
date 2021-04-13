@@ -33,7 +33,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<br>Sugarcane|Pineapple<sup>3.0</sup>|Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>4.0</sup><br>Rice<br>Wheat<br>Rye<br>Barley<br>Sorghum<br>Millet| |
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
-|Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<br>Cherry<br>Plum<br>Jackfruit|Almond| Pectin |
+|Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds| |
 |Sapindales    |       |Maple     |Kumquat<sup>11.3</sup><br>Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
 |Saxifragales  |       |          |Currant<br>Gooseberry|         | |
