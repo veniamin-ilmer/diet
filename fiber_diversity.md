@@ -11,7 +11,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 | Order        | Root  | Stem/Leaf | Fruit      | Seed    | Antinutrient / Fiber |
 |--------------|-------|-----------|------------|---------|-----------|
 |Alismatales   |Taro<sup>3.9</sup><br>Eddo<br>Yautia<sup>1.7</sup>| | |         |           |
-|Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup><br>Fennel|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4<br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
+|Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup><br>Fennel|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
 |Arecales      |       |Heart of Palm|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Garlic<sup>1.7</sup><br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<sup>11.3</sup><br>Artichoke<br>Endive<br>Chamomile| |Sunflower| Inulin |
