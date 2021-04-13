@@ -14,16 +14,16 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Fennel<br>Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup>|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
 |Arecales      |       |Heart of Palm<up>14.4</sup>|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Shallot<br>Leek<sup>3.3</sup><br>Garlic<sup>1.7</sup>|Chive<sup>15.7</sup><br>Asparagus<sup>15.4</sup><br>Agave<sup>10.4</sup><br>Aloe vera<br>Vanilla<br>Saffron<sup>1.7</sup>| | | Inulin / Fructan |
-|Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<sup>11.3</sup><br>Artichoke<br>Endive<br>Chamomile| |Sunflower| Inulin |
+|Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Endive<sup>25.2</sup><br>Artichoke<sup>14.3</sup><br>Lettuce<sup>11.3</sup><br>Chamomile| |Sunflower<sup>10.6</sup>| Inulin |
 |Brassicales   |Radish<sup>10.0</sup><br>Daikon<sup>10.3</sup><br>Turnip<sup>7.3</sup><br>Horseradish|Collard<sup>17.6</sup><br>Bok Choy<sup>13.0</sup><br>Cauliflower<sup>13.0</sup><br>Arugula<sup>12.1</sup><br>Brussel sprouts<sup>11.8</sup><br>Broccoli<sup>10.8</sup><br>Cabbage<sup>8.0</sup><br>Kale<sup>5.6</sup><br>Garden Cress<sup>5.5</sup>|Papaya<sup>5.0</sup>|Mustard Seed<sup>10.4</sup><br>Rapeseed|Myrosinase|
-|Caryophyllales|Beet<sup>7.5</sup>|Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit (Pitaya)<br>Prickly pear|Buckwheat<sup>3.7</sup><br>Amaranth<sup>2.5</sup><br>Quinoa<sup>| Oxalate |
-|Cucurbitales  | | |Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon<br>Chayote<br>Munkfruit|   | |
+|Caryophyllales|Beet<sup>7.5</sup>|Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit (Pitaya)<br>Prickly pear|Buckwheat<sup>3.7</sup><br>Quinoa<sup>2.7</sup><br>Amaranth<sup>2.5</sup><sup>| Oxalate |
+|Cucurbitales  | | |Chayote<sup>10.5</sup><br>Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<sup>3.0</sup><br>Pumpkin<sup>2.2</sup><br>Watermelon<sup>1.5</sup><br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
-|Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Blueberry<sup>4.2</sup><br>Kiwi<br>Persimmon|Brazil Nut| |
+|Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Kiwi<sup>5.7</sup><br>Blueberry<sup>4.2</sup><br>Persimmon|Brazil Nut| |
 |Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
 |Gentianales   |       |          |            |Coffee   | |
-|Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive<sup>12.4</sup>|Sesame<br>Chia<sup>21.2</sup>| |
+|Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
 |Laurales      |Sassafras|Cinnamon|Avocado<sup>21.7</sup>|         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
 |Malpighiales  |Cassava (Yuca)|          |Passionfruit|Flaxseed<sup>23.1</sup> | |
