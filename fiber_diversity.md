@@ -36,7 +36,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds| |
 |Sapindales    |       |Maple     |Kumquat<sup>11.3</sup><br>Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
-|Saxifragales  |       |          |Currant<br>Gooseberry|         | |
+  |Saxifragales  |       |          |Gooseberry<sup>11.9</sup><br>Black Currant<br>Red Currant<sup>8.7</sup>|         | |
 |Solanales     |Sweet Potato<sup>3.7</sup><br>Potato<sup>3.1</sup><br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
 |Vitales       |       |          |Grape<sup>1.4</sup>|         | |
 |Zingiberales  |Ginger<br>Tumeric| |Banana<sup>3.1</sup>|Cardamom | |
