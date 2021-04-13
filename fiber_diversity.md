@@ -15,7 +15,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Arecales      |       |Heart of Palm|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Garlic<sup>1.7</sup><br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<sup>11.3</sup><br>Artichoke<br>Endive<br>Chamomile| |Sunflower| Inulin |
-|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<br>Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<sup>8.0</sup><br>Garden Cress<br>Kale|Papaya<sup>5.0</sup>|Mustard Seed<br>Rapeseed| Myrosinase |
+|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<sup>17.6</sup><br>Bok Choy<sup>13.0</sup><br>Cauliflower<sup>13.0</sup><br>Arugula<sup>12.1</sup><br>Brussel sprouts<sup>11.8</sup><br>Broccoli<sup>10.8</sup><br>Cabbage<sup>8.0</sup><br>Kale<sup>5.6</sup><br>Garden Cress<sup>5.5</sup>|Papaya<sup>5.0</sup>|Mustard Seed<sup>10.4</sup><br>Rapeseed|Myrosinase|
 |Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
 |Cucurbitales  | | |Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon<br>Chayote<br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
