@@ -12,7 +12,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |--------------|-------|-----------|------------|---------|-----------|
 |Alismatales   |Eddo<br>Taro<sup>3.9</sup><br>Yautia<sup>1.7</sup>| | |         |           |
 |Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Fennel<br>Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup>|Coriander<sup>20.7</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
-|Arecales      |       |Heart of Palm<up>14.4</sup>|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
+|Arecales      |       |Heart of Palm<sup>14.4</sup>|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Shallot<br>Leek<sup>3.3</sup><br>Garlic<sup>1.7</sup>|Chive<sup>15.7</sup><br>Asparagus<sup>15.4</sup><br>Agave<sup>10.4</sup><br>Aloe vera<br>Vanilla<br>Saffron<sup>1.7</sup>| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Endive<sup>25.2</sup><br>Artichoke<sup>14.3</sup><br>Lettuce<sup>11.3</sup><br>Chamomile| |Sunflower<sup>10.6</sup>| Inulin |
 |Brassicales   |Radish<sup>10.0</sup><br>Daikon<sup>10.3</sup><br>Turnip<sup>7.3</sup><br>Horseradish|Collard<sup>17.6</sup><br>Bok Choy<sup>13.0</sup><br>Cauliflower<sup>13.0</sup><br>Arugula<sup>12.1</sup><br>Brussel sprouts<sup>11.8</sup><br>Broccoli<sup>10.8</sup><br>Cabbage<sup>8.0</sup><br>Kale<sup>5.6</sup><br>Garden Cress<sup>5.5</sup>|Papaya<sup>5.0</sup>|Mustard Seed<sup>10.4</sup><br>Rapeseed|Myrosinase|
@@ -33,10 +33,10 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<br>Sugarcane|Pineapple<sup>3.0</sup>|Barley<sup>Hulled: 6.0, Pearled: 5.1</sup><br>Rye<sup>5.4</sup><br>Wheat<sup>3.3 (Bran: 28.2)</sup><br>Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>3.9</sup><br>Millet<sup>2.8</sup><br>Sorghum<sup>2.1</sup><br>Rice<sup>1.1 (Bran: 17.9)</sup>| |
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
-|Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond| Pectin |
+|Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond<sup>13.9</sup>| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds| |
-|Sapindales    |       |Maple     |Kumquat<sup>11.3</sup><br>Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
-  |Saxifragales  |       |          |Gooseberry<sup>11.9</sup><br>Black Currant<br>Red Currant<sup>8.7</sup>|         | |
+  |Sapindales    |       |Maple     |Kumquat<sup>11.3</sup><br>Lemon<sup>12.2</sup><br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Pistachio<sup>9.1</sup><br>Cashew<sup>2.7</sup>| Pectin |
+|Saxifragales  |       |          |Gooseberry<sup>11.9</sup><br>Black Currant<br>Red Currant<sup>8.7</sup>|         | |
 |Solanales     |Sweet Potato<sup>3.7</sup><br>Potato<sup>3.1</sup><br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
 |Vitales       |       |          |Grape<sup>1.4</sup>|         | |
 |Zingiberales  |Ginger<br>Tumeric| |Banana<sup>3.1</sup>|Cardamom | |
@@ -47,24 +47,25 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |-------------|-----------|------|
 |Osmundales   |Cinnamon fern<br>Royal fern<br>Zenmai| |
 |Polypodiales |Vegetable fern<br>Bracken<br>Lady fern<br>Midin<br>Ostrich fern<br>Western swordfern| |
-|Pinales      |           |Pine nut|
+|Pinales      |           |Pine nut<sup>6.9</sup>|
 
 ## Seaweed
 
-| Order        | Stem/Leaf |
-|--------------|-----------|
-|Bangiales     |Nori<br>Laver<sup>1.6</sup><br>Zicai<br>Gim|
-|Bryopsidales  |Sea grapes|
-|Gracilariales |Ogonori (Agar)|
-|Laminariales  |Kelp<sup>3.8</sup><br>Wakame|
-|Ulvales       |Sea Lettuce<br>Gutweed|
+| Order         | Stem/Leaf |
+|---------------|-----------|
+|Bangiales      |Nori<br>Laver<sup>1.6</sup><br>Zicai<br>Gim|
+|Bryopsidales   |Sea grapes|
+|Gracilariales  |Irishmoss<sup>3.0</sup><br>Ogonori (Agar)<sup>2.0</sup>|
+|Laminariales   |Kelp<sup>3.8</sup><br>Wakame<sup>1.6</sup>|
+|Ulvales        |Sea Lettuce<br>Gutweed|
 
 ## Fungi
 
 | Order     |Fruit   |
 |-----------|--------|
-|Agaricales |Common Mushroom<sup>12.9</sup><br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
+|Agaricales |White Mushroom<sup>12.9</sup><br>Oyster<sup>8.8</sup><br>Portabella<sup>8.5</sup><br>Brown/Italian/Crimini<sup>3.7</sup><br>Tree Mushroom<br>Shiitake<br>Enokitake<sup><br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
 |Auriculariales|Jelly Ear|
 |Pezizales  |Truffle<br>Morchella (Morel)|
+|Polyporales|Maitake<sup>9.8</sup>|
 |Russulales |Lion's Mane Mushroom|
 |Tremellales|Snow Fungus|
