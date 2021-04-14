@@ -63,7 +63,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 
 | Order     |Fruit   |
 |-----------|--------|
-|Agaricales |White Mushroom<sup>12.9</sup><br>Oyster<sup>8.8</sup><br>Portabella<sup>8.5</sup><br>Brown/Italian/Crimini<sup>3.7</sup><br>Tree Mushroom<br>Shiitake<br>Enokitake<sup>8.7</sup><br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
+|Agaricales |Oyster<sup>8.8</sup><br>Enokitake<sup>8.7</sup><br>White/Brown/Portabella<sup>8.5</sup><br>Tree Mushroom<br>Shiitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
 |Auriculariales|Jelly Ear|
 |Pezizales  |Truffle<br>Morchella (Morel)|
 |Polyporales|Maitake<sup>9.8</sup>|
