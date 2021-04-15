@@ -20,7 +20,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Cucurbitales  | | |Chayote<sup>10.5</sup><br>Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<sup>3.0</sup><br>Pumpkin<sup>2.2</sup><br>Watermelon<sup>1.5</sup><br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Kiwi<sup>5.7</sup><br>Blueberry<sup>4.2</sup><br>Persimmon|Brazil Nut| |
-|Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
+|Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<sup>24</sup><br>Lentil<sup>12.7</sup><br>Kidney bean<sup>10.2</sup><br>Navy bean<sup>9.9</sup><br>Peas<sup>8.7</sup><br>Sugarsnap/Snowpeas<sup>8.3</sup><br>Soybean<sup>7.7</sup><br>Chickpea<sup>7.1</sup><br>Pinto bean</sup>6.2</sup><br>Black bean<sup>6.0</sup><br>Peas<br>Tamarind<sup>2.3</sup>| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
