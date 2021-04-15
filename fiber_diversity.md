@@ -31,7 +31,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Myrtales      |       |Clove<sup>23.8</sup>|Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
 |Oxalidales    |       |          |Starfruit<sup>11.3</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper<sup>12.7</sup>|         | |
-|Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<sup>12</sup><br>Sugarcane|Pineapple<sup>3.0</sup>|Barley<sup>Hulled: 6.0, Pearled: 5.1</sup><br>Rye<sup>5.4</sup><br>Wheat<sup>3.3 (Bran: 28.2)</sup><br>Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>3.9</sup><br>Millet<sup>2.8</sup><br>Sorghum<sup>2.1</sup><br>Rice<sup>1.1 (Bran: 17.9)</sup>| |
+|Poales        |Water Chestnut<sup>3.1</sup>|Bamboo Shoots<sup>12</sup><br>Sugarcane|Pineapple<sup>3.0</sup>|Barley<sup>Hulled: 6.0, Pearled: 5.1</sup><br>Rye<sup>5.4</sup><br>Wheat<sup>3.3 (Bran: 28.2)</sup><br>Oat<sup>3.9 (Bran: 9.9)</sup><br>Corn<sup>3.9</sup><br>Millet<sup>2.8</sup><br>Sorghum<sup>2.1</sup><br>Rice<sup>1.1 (Bran: 17.9)</sup>|Beta-glucan|
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
 |Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond<sup>13.9</sup>| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds<sup>17.0</sup>| |
