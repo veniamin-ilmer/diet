@@ -23,11 +23,11 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<sup>24</sup><br>Lentil<sup>12.7</sup><br>Kidney bean<sup>10.2</sup><br>Navy bean<sup>9.9</sup><br>Peas<sup>8.7</sup><br>Sugarsnap/Snowpeas<sup>8.3</sup><br>Soybean<sup>7.7</sup><br>Chickpea<sup>7.1</sup><br>Pinto bean<sup>6.2</sup><br>Black bean<sup>6.0</sup><br>Tamarind<sup>2.3</sup>| |
 |Fagales       | | | |Pecan<sup>17</sup><br>Hazelnut<sup>14.4</sup><br>Walnut<sup>12.0</sup><br>Butternut<sup>9.6</sup><br>Chestnut<sup>2.7</sup>| |
 |Gentianales   |       |          |            |Coffee   | |
-|Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
-|Laurales      |Sassafras|Cinnamon|Avocado<sup>21.7</sup>|         | |
+|Lamiales      |Chinese Artichoke|Mint<sup>22.7</sup><br>Oregano<sup>22.2</sup>Sage<sup>22.1</sup><br>Rosemary<sup>19.1</sup><br>Basil<sup>16</sup>|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
+|Laurales      |Sassafras|Cinnamon<sup>23.2</sup>|Avocado<sup>21.7</sup>|         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
-|Malpighiales  |Cassava (Yuca)|          |Passionfruit|Flaxseed<sup>23.1</sup> | |
-|Malvales      |       |Hibiscus|Durian<br>Okra<br>Roselle|Cacao    | |
+|Malpighiales  |Cassava (Yuca)<sup>1.2</sup>|          |Passionfruit|Flaxseed<sup>23.1</sup> | |
+  |Malvales      |       |Hibiscus|Okra<sup>12.6</sup><br>Durian<sup>3.9</sup><br>Roselle|Cacao    | |
 |Myrtales      |       |Clove     |Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
 |Oxalidales    |       |          |Starfruit<sup>11.3</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper<sup>12.7</sup>|         | |
