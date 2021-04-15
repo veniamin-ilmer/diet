@@ -1,4 +1,4 @@
-# An experimental diet
+# Diverse fiber diet
 
 The number of cells in the human microbiome is known to exceed the number of cells in the human body. The microbiome has been known to influence a person's physical and mental health.
 
@@ -46,4 +46,7 @@ Fries / Chips
 : Sliced Lotus root fried until crispy. Maybe fry this with some onions?
 
 Zuccini noodles
-: You can buy zuccini that is already precut into noodles. Fry it with some garlic and mushrooms.
+: You can buy zuccini that is already precut into noodles. Sprinkle with garlic power and salt, and put into the oven. 350 degrees for 15 minutes.
+
+Kasha
+: Oat bran mixed with water in the microwave.
