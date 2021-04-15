@@ -25,9 +25,9 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Mint<sup>22.7</sup><br>Oregano<sup>22.2</sup>Sage<sup>22.1</sup><br>Rosemary<sup>19.1</sup><br>Basil<sup>16</sup>|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
 |Laurales      |Sassafras|Cinnamon<sup>23.2</sup>|Avocado<sup>21.7</sup>|         | |
-|Magnoliales   |       |          |            |Mace<br>Nutmeg| |
-|Malpighiales  |Cassava (Yuca)<sup>1.2</sup>|          |Passionfruit|Flaxseed<sup>23.1</sup> | |
-  |Malvales      |       |Hibiscus|Okra<sup>12.6</sup><br>Durian<sup>3.9</sup><br>Roselle|Cacao    | |
+|Magnoliales   |       |          |            |Mace<br>Nutmeg<sup>10.3</sup>| |
+|Malpighiales  |Cassava (Yuca)<sup>1.2</sup>|          |Passionfruit<sup>12.4</sup>|Flaxseed<sup>23.1</sup> | |
+|Malvales      |       |Hibiscus|Okra<sup>12.6</sup><br>Durian<sup>3.9</sup><br>Roselle|Cacao    | |
 |Myrtales      |       |Clove     |Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
 |Oxalidales    |       |          |Starfruit<sup>11.3</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper<sup>12.7</sup>|         | |
