@@ -35,7 +35,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Proteales     |Lotus root<sup>5.1</sup>|          |            |Macadamia<sup>14.8</sup>| |
 |Rosales       |       |          |Blackberry<sup>15.5</sup><br>Raspberry<sup>15.3</sup><br>Strawberry<sup>7.4</sup><br>Pear<sup>5.6</sup><br>Apple<sup>4.8</sup><br>Peach<sup>4.4</sup><br>Fig<sup>4.2</sup><br>Cherry<sup>3.6</sup><br>Quince<sup>3.4</sup><br>Plum<sup>3.4</sup><br>Jackfruit<sup>1.8</sup>|Almond<sup>13.9</sup>| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds<sup>17.0</sup>| |
-|Sapindales    |       |Maple     |Lemon<sup>12.2</sup><br>Kumquat<sup>11.3</sup><br>Orange<sup>4.9</sup><br>Grapefruit<sup>4.2</sup><br>Mango<sup>3.0</sup><br>Pomelo/Pummelo<sup>2.8</sup><br>Lychee<sup>2.2</sup>|Pistachio<sup>9.1</sup><br>Cashew<sup>2.7</sup>| Pectin |
+|Sapindales    |       |Maple     |Lemon<sup>12.2</sup><br>Kumquat<sup>11.3</sup><br>Lime<sup>10.8</sup><br>Orange<sup>4.9</sup><br>Grapefruit<sup>4.2</sup><br>Tangerine/Mandarin<sup>3.8</sup><br>Mango<sup>3.0</sup><br>Pomelo/Pummelo<sup>2.8</sup><br>Lychee<sup>2.2</sup>|Pistachio<sup>9.1</sup><br>Cashew<sup>2.7</sup>| Pectin |
 |Saxifragales  |       |          |Gooseberry<sup>11.9</sup><br>Black Currant<br>Red Currant<sup>8.7</sup>|         | |
 |Solanales     |Sweet Potato (Batata)<sup>3.7</sup><br>Potato<sup>3.1</sup>| |Eggplant<sup>17.1</sup><br>Tomatillo<sup>9.0</sup><br>Sweet Pepper<sup>8.6</sup><br>Tomato<sup>8.5</sup><br>Chili Pepper<sup>4.7</sup>| | |
 |Vitales       |       |          |Grape<sup>1.4</sup>|         | |
