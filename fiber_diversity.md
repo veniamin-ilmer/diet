@@ -19,7 +19,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Caryophyllales|Beet<sup>7.5</sup>|Spinach<sup>17.2</sup><br>Chard<sup>12.4</sup><br>Rhubarb<sup>11.0</sup><br>Lambs quarters<br>Purslane|Dragon fruit (Pitaya)<br>Prickly pear<sup>10.5</sup>|Buckwheat<sup>3.7</sup><br>Quinoa<sup>2.7</sup><br>Amaranth<sup>2.5</sup><sup>| Oxalate |
 |Cucurbitales  | | |Chayote<sup>10.5</sup><br>Zucchini<sup>9.6</sup><br>Cucumber<sup>4</sup><br>Chinese Okra<br>Cantaloupe<sup>3.0</sup><br>Pumpkin<sup>2.2</sup><br>Watermelon<sup>1.5</sup><br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Ñame<br>Chinese/African Yam<sup>3.6</sup>|          |            |         | |
-|Dipsacales    | |Cornsalad|Honeysuckle (Haskap)<br>Elderberry<sup>10.6</sup><br>Snowball Tree (Калина)| | |
+|Dipsacales    | |Cornsalad|Haskap Honeysuckle<br>Elderberry<sup>10.6</sup><br>Калина Snowball Tree| | |
 |Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Sapodilla<sup>9</sup><br>Kiwi<sup>5.7</sup><br>Blueberry<sup>4.2</sup><br>Persimmon<sup>3</sup>|Brazil Nut|Pectin|
 |Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<sup>24</sup><br>Lentil<sup>12.7</sup><br>Kidney bean<sup>10.2</sup><br>Navy bean<sup>9.9</sup><br>Peas<sup>8.7</sup><br>Sugarsnap/Snowpeas<sup>8.3</sup><br>Soybean<sup>7.7</sup><br>Chickpea<sup>7.1</sup><br>Pinto bean<sup>6.2</sup><br>Black bean<sup>6.0</sup><br>Tamarind<sup>2.3</sup>| |
 |Fagales       | | | |Pecan<sup>17</sup><br>Hazelnut<sup>14.4</sup><br>Walnut<sup>12.0</sup><br>Butternut<sup>9.6</sup><br>Chestnut<sup>2.7</sup>| |
