@@ -4,9 +4,9 @@ The number of cells in the human microbiome is known to exceed the number of cel
 
 It hence makes sense to pay close attention to the microbiome.
 
-People with stomach issues try to increase the amount of microbiota by literally injesting them. This is known as probiotics, usually found in fermented food such as yogurt, sauerkraut, or nattō.
+People with stomach issues try to increase the amount of microbiota by literally ingesting them. This is known as probiotics, usually found in fermented food such as yogurt, sauerkraut, or nattō.
 
-However multiple studies have shown that eating probiotics alone doesn't seem to signficantly change the biome.
+However multiple studies have shown that eating probiotics alone doesn't seem to significantly change the biome.
 
 Instead, studies point to an alternative mechanism to change the microbiome. These are Prebiotics, or dietary fibers. Certain types of microbiota consume certain types of prebiotics. By changing your diet to eat different dietary fibers, you can influence which microbiota survive in your gut.
 
@@ -18,9 +18,9 @@ I want to increase the diversity of my microbiome. Because of the lacking scienc
 
 ## Design
 
-Assume that the more diverse a plant is, the more diverse its fibers will likely be. Hence, to increase gut diversity, I need to eat a wide variety fiberous of foods. The more varied, the better.
+Assume that the more diverse a plant is, the more diverse its fibers will likely be. Hence, to increase gut diversity, I need to eat a wide variety of high fiber foods. The more varied, the better.
 
-In order to find "variety", I divide fiberous food based on its plant Order. [Here is a detailed table I have compiled](fiber_diversity).
+In order to find "variety", I divide food based on its plant Order. [Here is a detailed table I have compiled](fiber_diversity).
 
 Here are my priorities when searching for food to eat for this diet:
 
@@ -43,7 +43,8 @@ Avocado toast
 : Spread Avocado on a rye crisp.
 
 Fries / Chips
-: Sliced Lotus root fried until crispy. Maybe fry this with some onions?
+: Jicama cut into fries, boiled, spiced, and microwaved.
+: Sliced Lotus root fried until crispy.
 
 Zuccini noodles
 : You can buy zuccini that is already precut into noodles. Sprinkle with garlic power and salt, and put into the oven. 350 degrees for 15 minutes.
