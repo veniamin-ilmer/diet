@@ -26,7 +26,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Mint<sup>22.7</sup><br>Oregano<sup>22.2</sup><br>Sage<sup>22.1</sup><br>Rosemary<sup>19.1</sup><br>Thyme<sup>19.1</sup><br>Basil<sup>16</sup><br>Shiso|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
 |Laurales      |Sassafras|Cinnamon<sup>23.2</sup>|Avocado<sup>21.7</sup>|         | |
-|Magnoliales   |       |          |Soursoup<sup>5.5</sup><br>Sweetsop<sup>5.2</sup><br>Paw paw<sup>4</sup><br>Cherimoya<sup>3.6</sup>|Mace<br>Nutmeg<sup>10.3</sup>| |
+|Magnoliales   |       |          |Soursop<sup>5.5</sup><br>Sweetsop<sup>5.2</sup><br>Paw paw<sup>4</sup><br>Cherimoya<sup>3.6</sup>|Mace<br>Nutmeg<sup>10.3</sup>| |
 |Malpighiales  |Cassava (Yuca)<sup>1.2</sup>|          |Passionfruit<sup>12.4</sup>|Flaxseed<sup>23.1</sup> | |
 |Malvales      |       |Hibiscus|Okra<sup>12.6</sup><br>Durian<sup>3.9</sup><br>Roselle|Cacao    | |
 |Myrtales      |       |Clove<sup>23.8</sup>|Guava<sup>10.5</sup><br>Pomegranate<sup>5.9<sup>| | |
