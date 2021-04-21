@@ -21,7 +21,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Dioscoreales  |Nagaimo<br>Ñame<br>Chinese/African Yam<sup>3.6</sup>|          |            |         | |
 |Dipsacales    | |Cornsalad|Haskap Honeysuckle<br>Elderberry<sup>10.6</sup><br>Калина Snowball Tree| | |
 |Ericales      |       |Tea       |Cranberry<sup>10</sup><br>Sapodilla<sup>9</sup><br>Kiwi<sup>5.7</sup><br>Blueberry<sup>4.2</sup><br>Persimmon<sup>3</sup>|Brazil Nut|Pectin|
-|Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<sup>24</sup><br>Lentil<sup>12.7</sup><br>Kidney bean<sup>10.2</sup><br>Navy bean<sup>9.9</sup><br>Peas<sup>8.7</sup><br>Sugarsnap/Snowpeas<sup>8.3</sup><br>Soybean<sup>7.7</sup><br>Chickpea<sup>7.1</sup><br>Pinto bean<sup>6.2</sup><br>Black bean<sup>6.0</sup><br>Tamarind<sup>2.3</sup>| |
+|Fabales       |Jicama (Yambean)<sup>14</sup><br>Peanut<sup>9.2</sup>|Liquorice| |Alfalfa<sup>24</sup><br>Edamame<sup>13.8</sup><br>Lentil<sup>12.7</sup><br>Kidney bean<sup>10.2</sup><br>Navy bean<sup>9.9</sup><br>Peas<sup>8.7</sup><br>Sugarsnap/Snowpeas<sup>8.3</sup><br>Soybean<sup>7.7</sup><br>Chickpea<sup>7.1</sup><br>Pinto bean<sup>6.2</sup><br>Black bean<sup>6.0</sup><br>Tamarind<sup>2.3</sup>| |
 |Fagales       | | | |Pecan<sup>17</sup><br>Hazelnut<sup>14.4</sup><br>Walnut<sup>12.0</sup><br>Butternut<sup>9.6</sup><br>Chestnut<sup>2.7</sup>| |
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Mint<sup>22.7</sup><br>Oregano<sup>22.2</sup><br>Sage<sup>22.1</sup><br>Rosemary<sup>19.1</sup><br>Thyme<sup>19.1</sup><br>Basil<sup>16</sup><br>Shiso|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
