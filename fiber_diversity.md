@@ -38,7 +38,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calorie
 |Ranunculales  |       |          |Barberry    |Poppy Seeds<sup>17.0</sup>| |
 |Sapindales    |       |Maple     |Lemon<sup>12.2</sup><br>Kumquat<sup>11.3</sup><br>Lime<sup>10.8</sup><br>Orange<sup>4.9</sup><br>Grapefruit<sup>4.2</sup><br>Tangerine/Mandarin<sup>3.8</sup><br>Mango<sup>3.0</sup><br>Pomelo/Pummelo<sup>2.8</sup><br>Lychee<sup>2.2</sup><br>Longan<sup>2.0</sup>|Pistachio<sup>9.1</sup><br>Cashew<sup>2.7</sup>| Pectin |
 |Saxifragales  |       |          |Gooseberry<sup>11.9</sup><br>Black Currant<br>Red Currant<sup>8.7</sup>|         | |
-|Solanales     |Sweet Potato (Batata)<sup>3.7</sup><br>Potato<sup>3.1</sup>| |Eggplant<sup>17.1</sup><br>Tomatillo<sup>9.0</sup><br>Sweet Pepper<sup>8.6</sup><br>Tomato<sup>8.5</sup><br>Golden Berry<sup>7.9</sup><br>Chili Pepper<sup>4.7</sup>| |Solanine|
+|Solanales     |Sweet Potato (Batata)<sup>3.7</sup><br>Potato<sup>3.1</sup>| |Eggplant<sup>17.1</sup><br>Tomatillo<sup>9.0</sup><br>Sweet Pepper<sup>8.6</sup><br>Tomato<sup>8.5</sup><br>Golden Berry<sup>7.9</sup><br>Goji Berry<br>Chili Pepper<sup>4.7</sup>| |Solanine|
 |Vitales       |       |Grape Leaves<sup>17.9</sup>|Grape<sup>1.4</sup>|         | |
 |Zingiberales  |Tumeric<sup>8.4</sup><br>Ginger<sup>4.6</sup>| |Banana<sup>3.1</sup>|Cardamom<sup>12.8</sup>| |
 
