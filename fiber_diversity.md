@@ -21,7 +21,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams per 100 grams of food.
 |Dioscoreales  |Nagaimo<br>Ñame<br>Chinese/African Yam<sup>4</sup>|          |            |         | |
 |Dipsacales    | |Cornsalad|Haskap Honeysuckle<br>Elderberry<sup>7</sup><br>Калина Snowball Tree| | |
 |Ericales      |       |Tea       |Sapodilla<sup>5.3</sup><br>Cranberry<sup>3.6</sup><br>Persimmon<sup>3.6</sup><br>Kiwi<sup>3</sup><br>Blueberry<sup>2.4</sup>|Brazil Nut<sup>7.5</sup>|Pectin|
-|Fabales       |Peanut<sup>8.5</sup><br>Jicama (Yambean)<sup>4.9</sup>|Liquorice| |Chickpea<sup>12.2</sup><br>Lentil<sup>10.7</sup><br>Pinto bean<sup>9</sup><br>Black bean<sup>8.7</sup><br>Peas<sup>5.7</sup><br>Tamarind<sup>5.1</sup><br>Edamame<sup>5</sup><br>Kidney bean<sup>4.4</sup><br>Navy bean<sup>4.3</sup><br>Soybean<sup>4.2</sup><br>Sugarsnap/Snowpeas<sup>2.6</sup><br>Alfalfa<sup>1.9</sup>| |
+|Fabales       |Peanut<sup>8.5</sup><br>Jicama (Yambean)<sup>4.9</sup>|Sugarsnap/Snowpeas<sup>2.6</sup><br>Liquorice| |Chickpea<sup>12.2</sup><br>Lentil<sup>10.7</sup><br>Pinto bean<sup>9</sup><br>Black bean<sup>8.7</sup><br>Peas<sup>5.7</sup><br>Tamarind<sup>5.1</sup><br>Edamame<sup>5</sup><br>Kidney bean<sup>4.4</sup><br>Navy bean<sup>4.3</sup><br>Soybean<sup>4.2</sup><br>Alfalfa<sup>1.9</sup>| |
 |Fagales       | | | |Pecan<sup>17</sup><br>Hazelnut<sup>14.4</sup><br>Walnut<sup>12.0</sup><br>Butternut<sup>9.6</sup><br>Chestnut<sup>2.7</sup>| |
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Lemon Balm<sup>25</sup><br>Mint<sup>22.7</sup><br>Oregano<sup>22.2</sup><br>Sage<sup>22.1</sup><br>Rosemary<sup>19.1</sup><br>Thyme<sup>19.1</sup><br>Basil<sup>16</sup><br>Shiso|Olive<sup>12.4</sup>|Chia<sup>21.2</sup><br>Sesame<sup>12.3</sup>| |
