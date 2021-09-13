@@ -4,13 +4,13 @@ Below are example produce you can buy at a store, broken down by Order and part 
 
 The purpose of this information is to try to diversity your diet, to support diverse gut bateria.
 
-In <sup>superscript</sup> is the Dietary Fiber grams divided by the carb calories times 100.
+In <sup>superscript</sup> is the Dietary Fiber grams per 100 grams of food.
 
 ## Flowering Plants
 
 | Order        | Root  | Stem/Leaf | Fruit      | Seed    | Antinutrient<br>or Fiber |
 |--------------|-------|-----------|------------|---------|-----------|
-|Alismatales   |Eddo<br>Taro<sup>3.9</sup><br>Yautia<sup>1.7</sup>| | |         |           |
+|Alismatales   |Eddo<br>Taro<sup>4.1</sup><br>Yautia<sup>1.5</sup>| | |         |           |
 |Apiales       |Finocchio<sup>11.8</sup><br>Carrot<sup>7.7</sup><br>Parsnip<sup>7.1</sup><br>Celeriac<sup>5.1</sup><br>Ginseng|Cilantro<sup>20.7</sup><br>Fennel<br>Parsley<sup>14.9</sup><br>Celery<sup>13.7</sup><br>Dill<sup>8.3</sup>|Coriander<sup>38.8</sup><br>Anise<sup>10.1</sup>|Caraway<sup>26.4</sup><br>Dill Seed<sup>16.2</sup><br>Cumin<sup>8.1</sup>| |
 |Arecales      |       |Heart of Palm<sup>14.4</sup>|Coconut<sup>14.5</sup><br>Date<sup>2.7</sup>|         | |
 |Asparagales   |Onion<sup>4.7</sup><br>Shallot<br>Leek<sup>3.3</sup><br>Garlic<sup>1.7</sup>|Chive<sup>15.7</sup><br>Asparagus<sup>15.4</sup><br>Agave<sup>10.4</sup><br>Scallion<sup>10</sup><br>Aloe vera<br>Vanilla<br>Saffron<sup>1.7</sup>| | | Inulin<br>Fructan |
