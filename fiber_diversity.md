@@ -32,7 +32,7 @@ In <sup>superscript</sup> is the Dietary Fiber grams per 100 grams of food.
 |Myrtales      |       |Clove|Guava<sup>5.4</sup><br>Pomegranate<sup>4<sup>| | |
 |Oxalidales    |       |          |Starfruit<sup>2.8</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper|         | |
-|Poales        |Water Chestnut<sup>3</sup>|Bamboo Shoots<sup>2.2</sup><br>Sugarcane|Pineapple<sup>1.4</sup>|Rye<sup>15</sup><br>Wheat<sup>12.5</sup><br>Oat<sup>10.6 (Bran: 15.4)</sup>Millet<sup>8.5</sup><br>Sorghum<sup>6.7</sup><br><br>Barley<sup>3.8</sup><br>Corn<sup>2</sup><br>Rice<sup>1.2</sup>|Beta-glucan|
+|Poales        |Water Chestnut<sup>3</sup>|Bamboo Shoots<sup>2.2</sup><br>Sugarcane|Pineapple<sup>1.4</sup>|Rye<sup>15</sup><br>Wheat<sup>12.5</sup><br>Oat<sup>10.6</sup><br>Millet<sup>8.5</sup><br>Sorghum<sup>6.7</sup><br><br>Barley<sup>3.8</sup><br>Corn<sup>2</sup><br>Rice<sup>1.2</sup>|Beta-glucan|
 |Proteales     |Lotus root / Renkon<sup>3.1</sup>|          |            |Macadamia<sup>8</sup>| |
 |Rosales       |       |          |Raspberry<sup>6.5</sup><br>Blackberry<sup>5.3</sup>Pear<sup>3.1</sup><br>Fig<sup>2.9</sup><br>Apple<sup>2.4</sup><br>Cherry<sup>2.1</sup><br>Quince<sup>1.9</sup><br>Strawberry<sup>1.8</sup><br>Mulberry<sup>1.7</sup><br>Loquat<sup>1.7</sup><br>Peach<sup>1.5</sup><br>Plum<sup>1.4</sup><br>Jackfruit<sup>1.5</sup><br>Jujube|Almond<sup>12.5</sup>| Pectin |
 |Ranunculales  |       |          |Barberry    |Poppy Seeds| |
