@@ -48,25 +48,25 @@ In <sup>superscript</sup> is the Dietary Fiber grams per 100 grams of food.
 |-------------|-----------|------|
 |Osmundales   |Cinnamon fern<br>Royal fern<br>Zenmai| |
 |Polypodiales |Vegetable fern<br>Bracken<br>Lady fern<br>Midin<br>Ostrich fern<br>Western swordfern| |
-|Pinales      |           |Pine nut<sup>6.9</sup>|
+|Pinales      |           |Pine nut<sup>3.7</sup>|
 
 ## Seaweed
 
 | Order         | Stem/Leaf |
 |---------------|-----------|
-|Bangiales      |Nori<br>Laver<sup>1.6</sup><br>Zicai<br>Gim|
+|Bangiales      |Nori<br>Laver<sup>0.3</sup><br>Zicai<br>Gim|
 |Bryopsidales   |Sea grapes|
-|Gracilariales  |Irishmoss<sup>3.0</sup><br>Ogonori (Agar)<sup>2.0</sup>|
-|Laminariales   |Kelp<sup>3.8</sup><br>Wakame<sup>1.6</sup>|
+|Gracilariales  |Irishmoss<sup>1.3</sup><br>Ogonori (Agar)<sup>0.5</sup>|
+|Laminariales   |Kelp<sup>1.3</sup><br>Wakame<sup>0.5</sup>|
 |Ulvales        |Sea Lettuce<br>Gutweed|
 
 ## Fungi
 
 | Order     |Fruit   |
 |-----------|--------|
-|Agaricales |Oyster<sup>8.8</sup><br>Enokitake<sup>8.7</sup><br>White/Brown/Portabella<sup>8.5</sup><br>Tree Mushroom<br>Shiitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
+|Agaricales |Enokitake<sup>2.7</sup><br>Shiitake<sup>2.5</sup><br>Oyster<sup>2.3</sup><br>White/Brown/Portabella<sup>1</sup><br>Tree Mushroom<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
 |Auriculariales|Jelly Ear|
-|Pezizales  |Truffle<br>Morchella (Morel)|
-|Polyporales|Maitake<sup>9.8</sup>|
+|Pezizales  |Truffle<br>Morchella (Morel)<sup>2.8</sup>|
+|Polyporales|Maitake|
 |Russulales |Lion's Mane Mushroom|
 |Tremellales|Snow Fungus|
