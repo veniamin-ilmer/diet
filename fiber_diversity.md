@@ -25,11 +25,11 @@ In <sup>superscript</sup> is the Dietary Fiber grams per 100 grams of food.
 |Fagales       | | | |Hazelnut<sup>9.7</sup><br>Pecan<sup>9.6</sup><br>Walnut<sup>6.7</sup><br>Butternut<sup>4.7</sup><br>Chestnut<sup>5.1</sup>| |
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Lemon Balm<br>Oregano<br>Sage<br>Rosemary<sup>14.1</sup><br>Thyme<sup>14</sup><br>Mint<sup>6.8</sup><br>Basil<sup>1.6</sup><br>Shiso|Olive<sup>2.5</sup>|Chia<sup>34.4</sup><br>Sesame<sup>11.8</sup>| |
-|Laurales      |Sassafras|Cinnamon|Avocado<sup>6.8</sup>|         | |
+|Laurales      |Sassafras|Bay Leaf<br>Cinnamon|Avocado<sup>6.8</sup>|         | |
 |Magnoliales   |       |          |Sweetsop<sup>4.4</sup><br>Soursop<sup>3.3</sup><br>Custard apple<br>Paw paw<br>Cherimoya<sup>3</sup>|Mace<br>Nutmeg| |
 |Malpighiales  |Cassava (Yuca)<sup>1.8</sup>|          |Passionfruit<sup>10.4</sup>|Flaxseed<sup>27.3</sup>| |
 |Malvales      |       |Hibiscus|Durian<sup>3.8</sup><br>Okra<sup>3.2</sup><br>Roselle|Cacao    | |
-|Myrtales      |       |Clove|Guava<sup>5.4</sup><br>Pomegranate<sup>4<sup>|Water Caltrop<sup>14.9</sup>| |
+|Myrtales      |       |Allspice<br>Clove|Guava<sup>5.4</sup><br>Pomegranate<sup>4<sup>|Water Caltrop<sup>14.9</sup>| |
 |Oxalidales    |       |          |Starfruit<sup>2.8</sup>|         | Oxalic Acid |
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |Water Chestnut<sup>3</sup>|Bamboo Shoots<sup>2.2</sup><br>Sugarcane|Pineapple<sup>1.4</sup>|Rye<sup>15</sup><br>Wheat<sup>12.5</sup><br>Oat<sup>10.6</sup><br>Millet<sup>8.5</sup><br>Sorghum<sup>6.7</sup><br>Barley<sup>3.8</sup><br>Corn<sup>2</sup><br>Rice<sup>1.2</sup>|Beta-glucan|
